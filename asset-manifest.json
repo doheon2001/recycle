@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/garbage-separation-guide/static/css/main.80a91b48.css",
+    "main.js": "/garbage-separation-guide/static/js/main.85f7191b.js",
+    "index.html": "/garbage-separation-guide/index.html",
+    "main.80a91b48.css.map": "/garbage-separation-guide/static/css/main.80a91b48.css.map",
+    "main.85f7191b.js.map": "/garbage-separation-guide/static/js/main.85f7191b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80a91b48.css",
+    "static/js/main.85f7191b.js"
+  ]
+}
